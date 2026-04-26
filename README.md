@@ -1,3 +1,4 @@
+link to big files: https://drive.google.com/drive/folders/1YPP7LF62MxzH7w264yo9BPaYUgx59v48?usp=sharing
 # Discharge Summary Simplifier
 
 From-scratch NLP course project for simplifying clinical discharge summaries into patient-friendly English.
